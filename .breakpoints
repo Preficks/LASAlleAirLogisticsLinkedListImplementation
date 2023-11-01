@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.cpp": [
+      {
+        "id": "99a396c8-7f14-42a7-a725-9338f680c0aa",
+        "line": 113,
+        "version": 4634,
+        "index": 2397
+      },
+      {
+        "id": "b3c5f262-0fc8-4f15-be77-f5bae807993e",
+        "line": 113,
+        "version": 4634,
+        "index": 2405
+      },
+      {
+        "id": "e0464f0c-8fdf-4118-bbec-3f58a5417731",
+        "line": 117,
+        "version": 4634,
+        "index": 2501
+      }
+    ]
+  }
+}
